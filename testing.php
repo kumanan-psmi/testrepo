@@ -1,1 +1,5 @@
-Test php file
+<?php
+
+echo "Test script";
+
+
